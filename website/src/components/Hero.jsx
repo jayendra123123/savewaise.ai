@@ -20,7 +20,7 @@ export default function Hero() {
   const annualSaved = lockedSavings * 12;
 
   return (
-    <section className="relative w-full pt-10 sm:pt-16 pb-16 sm:pb-24 overflow-hidden">
+    <section className="relative w-full pt-28 sm:pt-36 pb-16 sm:pb-24 overflow-hidden">
       <div className="max-w-5xl mx-auto px-4 sm:px-6">
         
         {/* Top Centered Hero Content */}
